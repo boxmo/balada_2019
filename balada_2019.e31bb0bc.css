@@ -7243,6 +7243,8 @@ nav.navbar {
 #places {
   background-color: #da1e48;
   color: white; }
+  #places a {
+    color: #ede937; }
   #places .card {
     background-color: transparent;
     border: none; }
